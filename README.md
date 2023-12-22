@@ -17,15 +17,17 @@ Observando os símbolos abaixo e descreva sua funcionalidade:
 
 <img src="./Exercício 3 - Descricao-dos-simbolos-do-fluxograma.png">
 
+> *******<h3 style="color: `#fff64f`;">Respostas Escritas são encontradas no Trello em arquivos Word</h3>*******
 ## [M1S02] Ex 4 -  Linguagem de programação <br>
 Descreva qual a diferença entre linguagem de programação, linguagem de marcação e linguagem de estilização.
 
+> *******<h3 style="color: `#fff64f`;">Respostas Escritas são encontradas no Trello em arquivos Word</h3>*******
 ## [M1S02] Ex 5 -  Linguagem de programação <br>
 Analisando as seguintes frases assinale com F para a que for falso e V para as verdadeiras: <br>
 
 (  ) O HTML é uma linguagem de programação conhecida por dar vida e ações para uma página web <br>
-(    ) O navegador apenas interpreta a linguagem HTML e mais nenhuma outra. <br>
-(    ) LESS e SASS são linguagens de estilizações que se baseiam em CSS. <br>
+(  ) O navegador apenas interpreta a linguagem HTML e mais nenhuma outra. <br>
+(  ) LESS e SASS são linguagens de estilizações que se baseiam em CSS. <br>
 
 ## [M1S02] Ex 6 -  Prática com HTML <br>
 Crie um arquivo com a extensão .html e adicione a estrutura base do arquivo html e entre a tag body adicione qualquer texto. Ex: <body>Seu texto aqui </body>. 
