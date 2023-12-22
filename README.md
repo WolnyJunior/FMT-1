@@ -4,6 +4,8 @@
 ## [M1S02] Ex 1 - Praticar trello <br>
 Crie no trello um quadro e 3 colunas: a fazer, fazendo, feito. Crie um card para representar cada atividade dessa lista de exercícios. Feito isso, conforme você for respondendo e finalizando arraste os cards para você gerenciar como está indo o andamento das suas atividades.
 
+<img src="Exercício 1 - Trello.png">
+
 ## [M1S02] Ex 2 - Fluxograma <br>
 Faça um fluxograma que irá representar o fluxo que você faz ao postar uma foto no instagram, caso não tenha instagram.
 Ex: Abro o app -> clico em novo post -> …
